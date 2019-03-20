@@ -1,0 +1,14 @@
+{
+  "name": "simplestremming",
+  "version": "1.0.0",
+  "description": "Node.js Stremming Example",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hls.js": "^0.12.4"
+  }
+}
