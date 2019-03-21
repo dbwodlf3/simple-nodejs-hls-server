@@ -30,3 +30,8 @@ HLS에 자세한 정보는 [이곳](https://idlecomputer.tistory.com/93)에 있�
 클라이언트에서는 이렇게.[hls.js](https://github.com/video-dev/hls.js/blob/master/docs/API.md)
 
 컨버트는 이렇게. [node-fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg/tree/1.x)
+
+# 테스트?
+그냥 설치 후.
+main.js를 command로 실행하면 됨..
+Port 번호는 8000..
