@@ -9,6 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.0.17",
+    "fluent-ffmpeg": "^2.1.2",
+    "hls-server": "^1.5.0",
     "hls.js": "^0.12.4"
   }
 }
